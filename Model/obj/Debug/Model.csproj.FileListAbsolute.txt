@@ -1,0 +1,9 @@
+C:\Users\tacob\Desktop\progra3\Redes_Social\Model\bin\Debug\Model.dll
+C:\Users\tacob\Desktop\progra3\Redes_Social\Model\bin\Debug\Model.pdb
+C:\Users\tacob\Desktop\progra3\Redes_Social\Model\obj\Debug\Model.dll
+C:\Users\tacob\Desktop\progra3\Redes_Social\Model\obj\Debug\Model.pdb
+C:\Users\tacob\Desktop\progra3\Redes_Social\Model\bin\Debug\Entity.dll
+C:\Users\tacob\Desktop\progra3\Redes_Social\Model\bin\Debug\Helper.dll
+C:\Users\tacob\Desktop\progra3\Redes_Social\Model\bin\Debug\Entity.pdb
+C:\Users\tacob\Desktop\progra3\Redes_Social\Model\bin\Debug\Helper.pdb
+C:\Users\tacob\Desktop\progra3\Redes_Social\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
