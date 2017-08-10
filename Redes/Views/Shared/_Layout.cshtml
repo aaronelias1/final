@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Redes Social</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</head>
+<body>
+    <style>
+        body {
+            background-color: #85C1E9;
+        }
+    </style>
+
+
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand"> Redes sociales</a>
+                <a class="navbar-brand">
+
+                    <img src="data:image/png;base64,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" border="0" style="display: block; height: 40px; margin: 0pt auto; width: 50px;">
+
+                </a>
+            </div>
+        </div>
+    </nav>
+
+
+
+
+    @RenderBody()
+
+
+</body>
+</html>

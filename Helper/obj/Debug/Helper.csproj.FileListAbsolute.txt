@@ -1,6 +1,0 @@
-C:\Users\tacob\Desktop\progra3\Redes_Social\Helper\bin\Debug\Helper.dll
-C:\Users\tacob\Desktop\progra3\Redes_Social\Helper\bin\Debug\Helper.pdb
-C:\Users\tacob\Desktop\progra3\Redes_Social\Helper\bin\Debug\System.Web.Mvc.dll
-C:\Users\tacob\Desktop\progra3\Redes_Social\Helper\obj\Debug\Helper.dll
-C:\Users\tacob\Desktop\progra3\Redes_Social\Helper\obj\Debug\Helper.pdb
-C:\Users\tacob\Desktop\progra3\Redes_Social\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache

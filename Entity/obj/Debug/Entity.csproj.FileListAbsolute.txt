@@ -1,5 +1,0 @@
-C:\Users\tacob\Desktop\progra3\Redes_Social\Entity\bin\Debug\Entity.dll
-C:\Users\tacob\Desktop\progra3\Redes_Social\Entity\bin\Debug\Entity.pdb
-C:\Users\tacob\Desktop\progra3\Redes_Social\Entity\obj\Debug\Entity.dll
-C:\Users\tacob\Desktop\progra3\Redes_Social\Entity\obj\Debug\Entity.pdb
-C:\Users\tacob\Desktop\progra3\Redes_Social\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
